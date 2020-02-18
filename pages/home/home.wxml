@@ -1,3 +1,5 @@
 <!--pages/home/home.wxml-->
 <text class="litokele">pages/home/home.wxml</text>
 <button size='mini'>点我</button>
+<view>知识点1</view>
+<view>知识点1</view>
