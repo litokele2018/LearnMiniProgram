@@ -1,0 +1,4 @@
+/* pages/home/home.wxss */
+.litokele{
+  color: red
+}

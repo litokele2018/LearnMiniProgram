@@ -1,0 +1,3 @@
+<!--pages/home/home.wxml-->
+<text class="litokele">pages/home/home.wxml</text>
+<button size='mini'>点我</button>
